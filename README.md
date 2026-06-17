@@ -1,0 +1,92 @@
+# Telecom-Portfolio-Project
+
+Telecom Customer Churn Analysis
+
+SQL, Power BI, and Power Query Portfolio Project
+
+Project Overview
+
+This project analyzes telecom customer data to identify customer churn patterns, quantify revenue at risk, and uncover the factors most associated with customer attrition.
+
+Using SQL for data analysis and Power BI for dashboard development, the project provides management with a centralized view of customer retention performance and churn risk.
+
+Business Problem
+
+The telecom company is experiencing customer churn, resulting in lost recurring revenue and increased customer acquisition costs.
+
+Management needs to:
+
+Understand which customers are most likely to churn
+Identify key drivers of customer attrition
+Quantify revenue at risk
+Improve customer retention strategies
+Tools Used
+SQL
+Power BI
+Power Query
+Key Business Questions
+What is the overall customer churn rate?
+Which contract types experience the highest churn?
+Which internet service types experience the highest churn?
+How much revenue is at risk due to churn?
+Which customer segments contribute the most revenue at risk?
+How does customer tenure impact churn behavior?
+
+## Key KPIs
+KPI	Value
+
+Total Customers:	7,000
+
+Churn Rate:	26.54%
+
+Revenue At Risk:	$137.09K
+
+Average Tenure:	32.39 Months
+
+
+
+Dashboard
+<img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
+
+
+Insert Dashboard Screenshot Here
+
+Dashboard Features
+KPIs
+Total Customers
+Churn Rate
+Revenue At Risk
+Average Tenure
+Visualizations
+Churn Rate by Contract Type
+Churn Rate by Internet Type
+Revenue At Risk by Contract Type
+Revenue At Risk by Internet Type
+Interactive Filters
+Contract Type
+Internet Type
+
+## Key Insights
+
+1. Month-to-Month Customers Drive Churn
+
+Customers on Month-to-Month contracts experienced the highest churn rate at approximately 50%, significantly exceeding One-Year and Two-Year contract customers.
+
+2. Fiber Optic Customers Show Elevated Churn
+
+Fiber Optic customers recorded the highest churn rate among internet service categories, indicating a potential service, pricing, or customer satisfaction issue.
+
+3. Revenue Risk Is Concentrated in Month-to-Month Contracts
+
+The majority of revenue at risk originates from Month-to-Month customers, making this segment the highest retention priority.
+
+4. Customer Retention Improves Over Time
+
+Customers with longer tenure demonstrate lower churn rates, suggesting that retention improves as customer relationships mature.
+
+Recommendations
+1. Encourage Month-to-Month customers to move to longer-term contracts.
+2. Investigate drivers of churn among Fiber Optic customers.
+3. Develop retention campaigns targeting customers within their first year.
+4. Prioritize outreach to high-value customers contributing the most revenue at risk.
+5. Monitor churn trends through ongoing dashboard reporting.
