@@ -35,44 +35,28 @@ The telecom company is experiencing customer churn, resulting in lost recurring 
 |                          |
 |Average Tenure|	32.39 Months|
 
-
-
-
-
-Dashboard Features
-KPIs
-Total Customers
-Churn Rate
-Revenue At Risk
-Average Tenure
-Visualizations
-Churn Rate by Contract Type
-Churn Rate by Internet Type
-Revenue At Risk by Contract Type
-Revenue At Risk by Internet Type
-Interactive Filters
-Contract Type
-Internet Type
+--
 
 ## Key Insights
 
-1. Month-to-Month Customers Drive Churn
+## 1. Month-to-Month Customers Drive Churn
 
 Customers on Month-to-Month contracts experienced the highest churn rate at approximately 50%, significantly exceeding One-Year and Two-Year contract customers.
 
-2. Fiber Optic Customers Show Elevated Churn
+## 2. Fiber Optic Customers Show Elevated Churn
 
 Fiber Optic customers recorded the highest churn rate among internet service categories, indicating a potential service, pricing, or customer satisfaction issue.
 
-3. Revenue Risk Is Concentrated in Month-to-Month Contracts
+## 3. Revenue Risk Is Concentrated in Month-to-Month Contracts
 
 The majority of revenue at risk originates from Month-to-Month customers, making this segment the highest retention priority.
 
-4. Customer Retention Improves Over Time
+## 4. Customer Retention Improves Over Time
 
 Customers with longer tenure demonstrate lower churn rates, suggesting that retention improves as customer relationships mature.
 
 ## Recommendations
+
 ### 1. Encourage Month-to-Month customers to move to longer-term contracts.
 ### 2. Investigate drivers of churn among Fiber Optic customers.
 ### 3. Develop retention campaigns targeting customers within their first year.
