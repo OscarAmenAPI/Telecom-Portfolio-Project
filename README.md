@@ -48,9 +48,6 @@ Average Tenure:	32.39 Months
 Dashboard
 <img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
 
-
-Insert Dashboard Screenshot Here
-
 Dashboard Features
 KPIs
 Total Customers
@@ -84,9 +81,9 @@ The majority of revenue at risk originates from Month-to-Month customers, making
 
 Customers with longer tenure demonstrate lower churn rates, suggesting that retention improves as customer relationships mature.
 
-Recommendations
-1. Encourage Month-to-Month customers to move to longer-term contracts.
-2. Investigate drivers of churn among Fiber Optic customers.
-3. Develop retention campaigns targeting customers within their first year.
-4. Prioritize outreach to high-value customers contributing the most revenue at risk.
-5. Monitor churn trends through ongoing dashboard reporting.
+## Recommendations
+### 1. Encourage Month-to-Month customers to move to longer-term contracts.
+### 2. Investigate drivers of churn among Fiber Optic customers.
+### 3. Develop retention campaigns targeting customers within their first year.
+### 4. Prioritize outreach to high-value customers contributing the most revenue at risk.
+### 5. Monitor churn trends through ongoing dashboard reporting.
