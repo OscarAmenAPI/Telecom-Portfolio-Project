@@ -13,13 +13,13 @@ Tools Used:
 - Power BI
 - Power Query
 
---
+---
 
 ## Business Problem
 
 The telecom company is experiencing customer churn, resulting in lost recurring revenue and increased customer acquisition costs.
 
---
+---
 
 ## Dashboard Preview
 <img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
@@ -35,7 +35,7 @@ The telecom company is experiencing customer churn, resulting in lost recurring 
 |                          |
 |Average Tenure|	32.39 Months|
 
---
+---
 
 ## Key Insights
 
