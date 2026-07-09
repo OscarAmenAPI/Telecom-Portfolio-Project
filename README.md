@@ -1,52 +1,43 @@
 # Telecom-Portfolio-Project
 
-Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
-SQL, Power BI, and Power Query Portfolio Project
-
-Project Overview
+## Project Overview
 
 This project analyzes telecom customer data to identify customer churn patterns, quantify revenue at risk, and uncover the factors most associated with customer attrition.
 
 Using SQL for data analysis and Power BI for dashboard development, the project provides management with a centralized view of customer retention performance and churn risk.
 
-Business Problem
+Tools Used:
+- SQL
+- Power BI
+- Power Query
+
+--
+
+## Business Problem
 
 The telecom company is experiencing customer churn, resulting in lost recurring revenue and increased customer acquisition costs.
 
-Management needs to:
+--
 
-Understand which customers are most likely to churn
-Identify key drivers of customer attrition
-Quantify revenue at risk
-Improve customer retention strategies
-Tools Used
-SQL
-Power BI
-Power Query
-Key Business Questions
-What is the overall customer churn rate?
-Which contract types experience the highest churn?
-Which internet service types experience the highest churn?
-How much revenue is at risk due to churn?
-Which customer segments contribute the most revenue at risk?
-How does customer tenure impact churn behavior?
+## Dashboard Preview
+<img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
 
 ## Key KPIs
-KPI	Value
+|KPI | Value|
+|------|--------|
+|Total Customers |	7,000|
+|                      |
+|Churn Rate|	26.54%|
+|                          |
+|Revenue At Risk|	$137.09K|
+|                          |
+|Average Tenure|	32.39 Months|
 
-Total Customers:	7,000
-
-Churn Rate:	26.54%
-
-Revenue At Risk:	$137.09K
-
-Average Tenure:	32.39 Months
 
 
 
-Dashboard
-<img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
 
 Dashboard Features
 KPIs
