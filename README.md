@@ -29,7 +29,9 @@ Management needs a centralized reporting solution that answers the following que
 ---
 
 ## Dashboard Preview
-<img width="1315" height="733" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/67b76cab-9c02-460e-b67e-200c70acb7d4" />
+<img width="1277" height="714" alt="Telecom Dashboard" src="https://github.com/user-attachments/assets/dde800ca-2a42-4302-b2be-4c03a9198749" />
+
+ />
 
 ## Key KPIs
 |KPI | Value|
