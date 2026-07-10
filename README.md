@@ -168,6 +168,33 @@ Use the dashboard as a recurring management tool to track:
 * Retention campaign performance
 * Changes in fiber optic churn
 
+---
+## SQL Query Example:
+```
+-- Churn by Payment Method
+WITH TotalChurn AS
+(
+SELECT
+	Payment_Method,
+	COUNT(DISTINCT Customer_ID) AS Total,
+	COUNT(CASE WHEN Customer_Status = 'Churned' THEN 1 END) AS ChurnedCustomers
+FROM telecom_customer_churn
+GROUP BY Payment_Method
+)
+
+SELECT
+	Payment_Method,
+	ROUND 
+	(
+	SUM(
+		ChurnedCustomers * 100.0 / Total
+		)
+		,2
+	) AS ChurnRate
+FROM TotalChurn
+GROUP BY Payment_Method
+```
+
 ## Conclusion
 
 The analysis found that churn risk is most heavily concentrated among month-to-month customers, fiber optic customers, and customers with shorter tenure.
