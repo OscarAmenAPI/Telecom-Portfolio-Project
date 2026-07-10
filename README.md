@@ -7,9 +7,9 @@ This project analyzes telecom customer data to identify the customer segments mo
 SQL was used to clean, aggregate, and analyze the customer data. Power BI was used to develop an interactive dashboard that allows management to monitor churn performance and explore the characteristics of customers most likely to leave.
 
 Tools Used:
-- SQL
-- Power BI
-- Power Query
+* SQL
+* Power BI
+* Power Query
 
 ---
 
@@ -19,12 +19,12 @@ Customer churn reduces recurring revenue and forces telecom companies to spend m
 
 Management needs a centralized reporting solution that answers the following questions:
 
-What percentage of customers are churning?
-How much monthly revenue is associated with churned customers?
-Which contract types have the highest churn rates?
-Which internet service types are most associated with churn?
-How does customer tenure relate to churn?
-Which customer segments should receive the highest retention priority?
+* What percentage of customers are churning?
+* How much monthly revenue is associated with churned customers?
+* Which contract types have the highest churn rates?
+*Which internet service types are most associated with churn?
+* How does customer tenure relate to churn?
+* Which customer segments should receive the highest retention priority?
 
 ---
 
@@ -81,6 +81,16 @@ SQL queries were used to calculate and compare:
 
 The Power BI dashboard was designed to provide both an executive summary and segment-level churn analysis.
 
+The dashboard includes:
+
+* KPI cards for customers, churn rate, revenue at risk, and average tenure
+* Churn comparisons by contract type
+* Churn analysis by internet service
+* Customer segmentation by tenure
+* Revenue-at-risk analysis
+* Interactive filters for customer characteristics
+* Key Insights
+
 ---
 
 ## Key Insights
@@ -101,11 +111,63 @@ The majority of revenue at risk originates from Month-to-Month customers, making
 
 Customers with longer tenure demonstrate lower churn rates, suggesting that retention improves as customer relationships mature.
 
-## Recommendations
+## Business Recommendations
 
-### 1. Encourage Month-to-Month customers to move to longer-term contracts.
-### 2. Investigate drivers of churn among Fiber Optic customers.
-### 3. Develop retention campaigns targeting customers within their first year.
-### 4. Prioritize outreach to high-value customers contributing the most revenue at risk.
-### 5. Monitor churn trends through ongoing dashboard reporting.
+### 1. Increase Long-Term Contract Adoption
 
+Offer targeted incentives for month-to-month customers to move to one-year or two-year contracts.
+
+Possible incentives include:
+
+Temporary monthly discounts
+Loyalty pricing
+Service upgrades
+Bundled products
+Waived contract or installation fees
+
+### 2. Investigate Fiber Optic Customer Experience
+
+Conduct additional analysis of fiber optic customers using:
+
+* Support ticket volume
+* Service interruption data
+* Customer complaints
+* Pricing changes
+* Geographic availability
+* Competitor pricing
+* Satisfaction survey results
+
+The current analysis identifies an association between fiber optic service and churn, but does not establish the cause.
+
+### 3. Build an Early-Tenure Retention Program
+
+Prioritize customers within their first 12 months through:
+
+* Structured onboarding
+* Proactive service check-ins
+* Early satisfaction surveys
+* Personalized product education
+* First-year loyalty offers
+
+### 4. Prioritize High-Value Customers at Risk
+
+Create a retention list that ranks customers using monthly charges, contract type, tenure, and churn-risk characteristics.
+
+Customers contributing the most revenue at risk should receive proactive outreach before lower-value accounts.
+
+### 5. Monitor Churn as an Ongoing Performance Metric
+
+Use the dashboard as a recurring management tool to track:
+
+* Overall churn rate
+* Churn by customer segment
+* Revenue at risk
+* Contract conversion
+* Retention campaign performance
+* Changes in fiber optic churn
+
+## Conclusion
+
+The analysis found that churn risk is most heavily concentrated among month-to-month customers, fiber optic customers, and customers with shorter tenure.
+
+The strongest immediate business opportunity is to target high-value, early-tenure, month-to-month customers with proactive retention offers while conducting deeper investigation into the elevated churn observed among fiber optic users.
