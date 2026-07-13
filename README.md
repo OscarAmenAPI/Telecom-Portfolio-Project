@@ -11,6 +11,8 @@ Tools Used:
 * Power BI
 * Power Query
 
+Link to code: https://mavenanalytics.io/data-playground/telecom-customer-churn
+
 ---
 
 ## Business Problem
